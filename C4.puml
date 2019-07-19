@@ -19,6 +19,7 @@ skinparam maxMessageSize 150
 skinparam rectangle {
     StereotypeFontSize 12
     shadowing false
+    roundCorner 10 
 }
 
 skinparam database {
