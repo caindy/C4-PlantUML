@@ -54,6 +54,21 @@ center footer <font color=red>Warning:</font> Created for discussion, needs to b
 !define LAYOUT_TOP_DOWN top to bottom direction
 !define LAYOUT_LEFT_RIGHT left to right direction
 
+' Status
+' ##################################
+
+!definelong STATUS_DRAFT
+center header Status: DRAFT
+!enddefinelong
+
+!definelong STATUS_IMPLEMENTED
+center header Status: IMPLEMENTED
+!enddefinelong
+
+!definelong STATUS_PLANNED(dueDate)
+center header Status: PLANNED dueDate
+!enddefinelong
+
 ' Boundaries
 ' ##################################
 
