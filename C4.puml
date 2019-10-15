@@ -69,6 +69,10 @@ center header Status: IMPLEMENTED
 center header Status: PLANNED dueDate
 !enddefinelong
 
+!definelong STATUS_PLANNED()
+center header Status: PLANNED
+!enddefinelong
+
 ' Boundaries
 ' ##################################
 
